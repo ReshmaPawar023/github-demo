@@ -19,3 +19,8 @@ def multiply(x,y):
 #divide
 def divide(x,y):
 	pass
+	
+	
+#square
+def square(x):
+	return x*x
