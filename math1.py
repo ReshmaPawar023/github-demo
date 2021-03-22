@@ -18,8 +18,4 @@ def multiply(x,y):
 	
 #divide
 def divide(x,y):
-	if y==0:
-		return DIVIDE_BY_0_ERROR
-		
-	else:
-		return  x/y
+	pass
